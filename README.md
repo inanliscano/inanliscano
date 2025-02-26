@@ -14,4 +14,8 @@ Here are some Programming languages that i use....
 - ⚡ Fun fact: Blue ang dagat...
 - 🎀 Para kang semi colon pag wala hindi nako gagana
 
+
+⠀𓇼 ⋆.˚ 𓆉 𓆝  𓆡⋆.˚ 𓇼
+
+
 [![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=inanliscano&show_icons=true&theme=transparent)](https://github.com/inanliscano/github-readme-stats)
